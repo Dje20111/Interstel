@@ -1865,5 +1865,11 @@
     "link": "https://idle-js-games.github.io/goomyClicker2/",
     "image": "/assets/media/icons/gc2.webp",
     "categories": ["all"]
+  },
+   {
+    "name": "Super Mario 64",
+    "link": "https://swordslasher.com/games/sm64/src/",
+    "image": "/assets/media/icons/OIP.webp"",
+    "categories": ["all, emu"]
   }
 ]
